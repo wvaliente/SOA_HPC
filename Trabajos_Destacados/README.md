@@ -8,7 +8,7 @@ Más información sobre la teorica de estos ejemplos: [wiki soa](http://www.so-u
 
 ### Con GPU
 
-* [Dibujo de fractales con PyOpenCL ](Cuaderno 2020 Arzola FractalOpenCL.ipynb)
+* [Dibujo de fractales con PyOpenCL ](./Cuaderno 2020 Arzola FractalOpenCL.ipynb)
 * [Filtro bordes de imagen PyCUDA](Cuaderno 2020 Cabre Bordes de imagen CUDA.ipynb)
 * [Calculo sinusoidal PyCUDA](Cuaderno 2020 Cabre Sinusoidal CUDA.ipynb)
 * [Varios filtros PyOpenCL](Cuaderno 2020 Firpo Filtros en OpenCL.ipynb)
